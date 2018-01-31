@@ -1,6 +1,4 @@
 This is a README file
 
-
-
-Hello World Salla hates tacos
+I love cheese and pizza
 

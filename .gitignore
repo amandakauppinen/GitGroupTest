@@ -32,5 +32,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Add this .Ds_Store
-
+.Ds_Store
